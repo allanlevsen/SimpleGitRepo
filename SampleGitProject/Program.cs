@@ -6,8 +6,7 @@ namespace SampleGitProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World, again");
+            Console.WriteLine("This is the new feature!");
         }
     }
 }
